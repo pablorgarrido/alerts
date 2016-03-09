@@ -6,7 +6,7 @@ Simple package, but effective.
 ##Installation
 
 ````
-composeer require infinety/alerts
+composer require infinety/alerts *@dev
 ````
 
 After install this package you have to set the service provider on your config/app.php file
