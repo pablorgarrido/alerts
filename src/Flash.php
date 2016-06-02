@@ -55,6 +55,6 @@ class Flash
      */
     public function overlay($title, $message, $type = 'success')
     {
-        return $this->create($title, $message, $type, 'sweet_alert_message_overlay');
+        return $this->create($title, $message, $type, 'flash_message_overlay');
     }
 }
