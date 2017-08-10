@@ -1,5 +1,5 @@
 {
-    "name": "infinety/alerts",
+    "name": "pablogarrido/alerts",
     "description": "A Sweet Alert package for Laravel 5>",
     "keywords": ["laravel", "alert", "sweet-alert", "laravel sweet alert"],
     "type": "package",
@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Infinety\\Alerts\\": "/src"
+            "PabloGarrido\\Alerts\\": "/src"
         }
     },
     "minimum-stability": "dev"
